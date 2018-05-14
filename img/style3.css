@@ -37,21 +37,56 @@ body {
     bottom: 0px;
     z-index: 1;
 }
+#img_droite
+{
+    position: absolute;
+	right: 200px;
+    top: 500px;
+    bottom: 0px;
+    z-index: 1;
+}
+
 h1
 {
     font-size: 44px;
 	text-decoration: blink;
 	 text-align: center;
 }
+h2
+{
+position: absolute;
+	right: 200px;
+    top: 700px;
+	font-size: 40px;
+}
+h3
+{
+position: absolute;
+	right: 180px;
+    top: 800px;
+	font-size: 20px;
+	text-align: justify;
+    margin: auto;
+	color: black;
+}
+h4
+{
+position: absolute;
+	right: 100px;
+    top: 820px;
+	font-size: 20px;
+	text-align: justify;
+    margin: auto;
+	color: black;
+}
 iframe
 {
-
+background-color:green;
 position: absolute;
 	right: 550px;
     top: 500px;
 
 }
-
 nav ul
 {
  position: absolute;
